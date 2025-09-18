@@ -16963,7 +16963,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.5, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0.011139358, y: 0.4999999, z: 1.0663443}
+  m_ConnectedAnchor: {x: 0.011139358, y: 0.4999999, z: 1.0663441}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -31091,22 +31091,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 1913037774}
     m_Modifications:
     - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.121640034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.12164
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.121640034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.16529965
       objectReference: {fileID: 0}
@@ -31145,10 +31129,6 @@ PrefabInstance:
     - target: {fileID: 4257412417454173056, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4257412417454173058, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
-      propertyPath: m_InteractionManager
-      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4257412417454173071, guid: ed79eaa9dbed71a46b42588537c577a7, type: 3}
       propertyPath: m_Name
